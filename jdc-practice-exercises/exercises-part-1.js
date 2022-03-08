@@ -179,3 +179,6 @@ const parseCSV = (csvString) => csvString.split('\n').map(row => row.split(','))
 // jkl,mno,pqr
 // stu,vwx,yza`))
 
+/*
+To generate a random hexadecimal color code
+*/
